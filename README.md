@@ -54,7 +54,7 @@ Repositori ini menyatukan beberapa tugas yang dieksekusi secara terpisah dalam s
 │   └── index.php
 │
 ├── Dockerfile             # Konfigurasi sistem Deployment Cloud (Coolify)
-├── index.php              # Halaman Utama (Landing Page Portofolio)
+├── index.php              # Halaman Utama (Landing Page)
 └── README.md              # Dokumentasi ini
 ```
 
